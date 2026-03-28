@@ -1,0 +1,11 @@
+[user]
+	name = Cristina Sousa
+	email = cristina.wep2013@gmail.com
+[credential "https://github.com"]
+	helper = 
+	helper = !/data/data/com.termux/files/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/data/data/com.termux/files/usr/bin/gh auth git-credential
+[credential]
+	helper = store

@@ -1,0 +1,4 @@
+.config/
+.git-credentials
+__pycache__/
+*.db
